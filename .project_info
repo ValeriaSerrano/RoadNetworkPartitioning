@@ -1,0 +1,13 @@
+Título: Análisis comparativo de particiones a partir de los algoritmos METIS y SParTSim  
+Objetivo: Comparar el rendimiento de METIS y SParTSim bajo distintos parámetros al particionar grafos 
+Descripción: En este repositorio se encuentran disponibles scripts en Python para creación y formateo de 
+grafos en formato GeoJSON, compatibles con el programa de partición de grafos. Además, se añade un 
+script para procesar las particiones obtenidas y obtener diferentes parámetros de comparación entre 
+el grafo original y las particiones obtenidas con los distintos algoritmos utilizados. 
+Miembros actuales: Valeria Serrano  
+Miembros históricos: Lulu1234
+Palabras clave: ver archivo keywords.txt 
+Colaboración:
+Fecha de inicio: 2025-01-02  
+Fecha de finalización: 2025-01-31 
+Estado: Completado
